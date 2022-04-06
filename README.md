@@ -1,2 +1,10 @@
 # statistics_lecture
-Statistics lecture to OU postgrad students
+This is the repo for code and presentation materials for my statistics lecture to Open University postgraduate students in the physical sciences.
+
+The lecture touches on the many ways that thinking in Fourier space helps your analysis. This is particulrly important in astronomy, because of applications to diffraction limits, interferometers, Nyquist sampling, matched filtering and so on. The lecture also touches on applications in crystallography, healthcare and more. 
+
+It's only one lecture though, so it's not possible to cover Bayesian statistics, machine learning, and many other important topics and techniques, but it should give you some essential foundations for starting on these topics. Also, let's be frank, the lecture could do with a refresh and an update. It's on the list of things to do...
+
+A fun example from this lecture. Here's a starting point image, which is then blurred by convolving with a kernel (done numerically by summing pixels in a box, that then moves across the image), and then sharpened up again by Fourier transforming the image and boosting certain Fourier modes then transforming back. Are there limits for how good this sharpening up can go? This lecture will help you answer this. And if you don't recognise the image, you really should! 
+
+![franklin1](https://user-images.githubusercontent.com/11993612/161954997-64881a7f-2401-43e9-9475-a25e941e2102.jpg) ![franklin2](https://user-images.githubusercontent.com/11993612/161955029-648caccd-be43-4b85-b104-0e911954bbce.jpg) ![franklin3](https://user-images.githubusercontent.com/11993612/161955043-99403b8d-4130-4ed2-a834-8c0bb13d6818.jpg)
