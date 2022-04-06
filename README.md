@@ -1,7 +1,7 @@
 # statistics_lecture
 This is the repo for code and presentation materials for my statistics lecture to Open University postgraduate students in the physical sciences.
 
-The lecture touches on the many ways that thinking in Fourier space helps your analysis. This is particulrly important in astronomy, because of applications to diffraction limits, interferometers, Nyquist sampling, matched filtering and so on. The lecture also touches on applications in crystallography, healthcare and more. 
+The lecture touches on the many ways that thinking in Fourier space helps your analysis. This is particulrly important in astronomy, because of applications to diffraction limits, interferometers, Nyquist sampling, matched filtering, deconvolution, and so on. The lecture also touches on applications in crystallography, healthcare and more. 
 
 It's only one lecture though, so it's not possible to cover Bayesian statistics, machine learning, and many other important topics and techniques, but it should give you some essential foundations for starting on these topics. Also, let's be frank, the lecture could do with a refresh and an update, as well as rewriting the old IDL code in Python 3. It's on the list of things to do...
 
